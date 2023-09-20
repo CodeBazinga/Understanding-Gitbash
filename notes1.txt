@@ -1,2 +1,5 @@
 Understanding Git
 Using gitbash using Command Line
+Changes in the file
+Adding new lines of code
+
